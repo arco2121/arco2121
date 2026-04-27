@@ -4,4 +4,4 @@ Just a normal student...really😑
 - Supbase (For Databases)
 - Render (For Serving)
 - Hugging Face (Serving and AI)
-- Tailsale
+- Tailscale
